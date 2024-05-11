@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/medcare-app-master/medcare-app-master/image"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hospitalapp"
+	}
+}
