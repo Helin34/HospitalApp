@@ -4,6 +4,6 @@ Hastane Randevu Projesi
 
 HTML, CSS ve Bootstrap kullanılarak yapılmıştır.
 
-<p>Ekran Gifi</p>
+<p>Ekran Görüntüsü</p>
 
 ![](Hospitalapp.gif)
